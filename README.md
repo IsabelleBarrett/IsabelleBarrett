@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsabelleBarrett
 - 👀 I’m interested in behavioural science and cognitive modelling
-- 🌱 I’m currently learning R, Python, JavaScript, and Scala
+- 🌱 I’m currently learning R, Python, JavaScript, and Stan
 - 📫 Reach me at enquiries@isabellebarrett.co.uk
 
 <!---
